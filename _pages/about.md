@@ -4,7 +4,6 @@ title: About Me
 permalink: /about/
 logo: /images/me.png
 ---
-![alt text](/images/me.png "Corry")
 <img src="/images/me.png" alt="me" width="200"/>
 
 Welcome to my personal blog!
