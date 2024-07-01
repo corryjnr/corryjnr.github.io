@@ -7,7 +7,7 @@ logo: /images/reverie.png
 <script>
     const btn = document.getElementById('btn');
         btn.addEventListener('click', function () {
-            var elmWitchChange = document.body;
+            var element = document.body;
             for (var i = 0; i < element.length; i++) {
                 element.classList.toggle("dark");
             }
