@@ -14,30 +14,6 @@
 /**************/
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
-.dark-light {
-  cursor: pointer;
-  svg {
-      color: var(--color-white);
-  }
-  .icon-light {
-      display: block;
-  }
-  .icon-dark {
-      display: none;
-  }
-}
-
-[data-theme='dark'] {
-  .dark-light {
-      .icon-light {
-          display: none;
-      }
-      .icon-dark {
-          display: block;
-      }
-  }
-}
-
 html {
   font-size: 100%;
   height: 100%;
