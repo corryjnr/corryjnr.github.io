@@ -1,10 +1,7 @@
 ---
 layout: post
-title: First Post
+title: Welcome to my Website
 ---
-
-## Welcome to my Website
-
 This website will work as a portfolio website and blog.
 
 This is the first post.
