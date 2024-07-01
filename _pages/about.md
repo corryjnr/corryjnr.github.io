@@ -2,10 +2,10 @@
 layout: page
 title: About Me
 permalink: /about/
-logo: /images/reverie.png
+logo: /images/me.png
 ---
 Welcome to my personal blog!
-
+![alt text](/images/me.png "Corry")
 I'm Corry, a passionate developer and aspiring Software Engineer who loves to share insights, ideas, and experiences through writing. This blog is my little corner of the internet where I post about various topics that interest me, ranging from technology and programming to personal development and lifestyle.
 
 ## What You'll Find Here
