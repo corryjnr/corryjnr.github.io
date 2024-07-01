@@ -20,7 +20,7 @@ I believe in the power of sharing knowledge and experiences. This blog is a way 
 
 ## Get in Touch
 
-I'd love to hear from you! Feel free to reach out via [Your Preferred Contact Method] if you have any questions, comments, or just want to say hello.
+I'd love to hear from you! Feel free to reach out below if you have any questions, comments, or just want to say hello.
 
 Thank you for visiting my blog!
 
