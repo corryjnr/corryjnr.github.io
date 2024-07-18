@@ -21,7 +21,7 @@ So today I implore you to get started and give your best to create your best. If
 
 Notice the difference between best and perfect. The best compares input and output on a scale against other efforts. Meaning there must have been a previous effort. If there is only one of one then it is the best in that category, and to achieve one of one there must be previous efforts that allow you to distinguish yourself. One of one is not perfect, it can be improved, either by you or someone else. The improved version would become better and therefore the new best.
 
-Now remember you are one of one in this world and your best is determined by you. The honest you. No one can compete with you in this category. It also means this is the easiest category to fall into the perfection trap and the best place to do your best. 
+Now remember you are one of one in this world and your best is determined by you. The honest you. No one can compete with you in this category. It also means this is the easiest category to fall into the perfection trap and the best place to do your best.
 
 > Escape competition through authenticity.
->    ––Naval
+> ––Naval
