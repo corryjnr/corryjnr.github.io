@@ -3,9 +3,7 @@ layout: post
 title: The Laughable Perfect
 ---
 
-Perfect by definition is a state of ultimate excellence. It is unimprovable. This is why it is laughable.
-
-Imperfect beings want to create perfect things that they have never even seen. If you consider it you will realize there are no 'perfect' things unless we redefine perfect.
+Perfect by definition is a state of ultimate excellence. It is unimprovable. This is why it is laughable, imperfect beings wanting to create perfect things that they have never even seen. If you think about it you will realize there are no 'perfect' things unless we redefine perfect.
 
 This is the trap, the trap of perfection. It is an impossibility. And even if it were possible, you cannot expect to start from nothing and immediately attain perfection. It is like aiming to create a vehicle whose speed is above the speed of light without any previous attempts. I hope you see the absurdity of it –– this is not to say we can never attain the speed of light as a species.
 
