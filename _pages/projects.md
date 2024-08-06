@@ -4,45 +4,60 @@ permalink: /projects/
 title: Projects
 ---
 
-Welcome to my projects page! Here you will find a selection of the projects I've worked on. Each project includes a brief description and links to the project repository or live demo.
+Welcome to my projects page! Here you will find a selection of the projects I've worked on. Each project includes a brief description and links to the project repository.
 
 ---
 
-## Project 1: Minimalistic Portfolio Website
+## Redis Server Clone
 
 **Description:**  
-A sleek and minimalistic portfolio website built with HTML, CSS, and JavaScript. The site features a blog page where new blogs can be added dynamically.
+A simplified version of Redis, a popular in-memory data structure store, developed to understand its core concepts and internal workings. The project includes implementing core Redis commands and the replication of a master server to slave servers.
 
 **Technologies:**  
-HTML, CSS, JavaScript
+Python
 
 **Features:**
-- Clean and modern design
-- Responsive layout
-- Dynamic blog page
+- Implementation of core Redis commands (e.g., SET, GET, ECHO, PING, INFO)
+- Replication of master to slave servers, including the handshake process and propagation of processed WRITE commands
 
 **Links:**
-- [GitHub Repository](https://github.com/yourusername/portfolio-website)
-- [Live Demo](https://yourusername.github.io/portfolio-website)
+- [GitHub Repository](https://github.com/yourusername/redis-clone)
 
 ---
 
-## Project 2: Task Management App
+## Employee Management System
 
 **Description:**  
-A task management app designed to help users organize their tasks efficiently. The app includes features like task categorization, deadlines, and priority levels.
+A responsive web-based Employee Management System (EMS) developed to enhance usability across various devices. The system enables employees to access personal information, request leaves, track attendance, and manage tasks, among other features.
 
 **Technologies:**  
-React, Node.js, Express, MongoDB
+Django, HTML, CSS, JavaScript
 
 **Features:**
-- Task categorization and filtering
-- Deadline and priority management
-- User authentication and authorization
+- User authentication and role-based access control
+- Task management, attendance tracking, and leave requests
+- Responsive design for various devices
 
 **Links:**
-- [GitHub Repository](https://github.com/yourusername/task-management-app)
-- [Live Demo](https://taskmanager.yourusername.com)
+- [GitHub Repository](https://github.com/yourusername/employee-management-system)
+
+---
+
+## Chatbot Song Recommender System
+
+**Description:**  
+A chatbot that recommends songs based on the user’s mood, gauged from the chat conversation after performing sentiment analysis. The system leverages natural language processing and integrates the Last.fm API to access a vast music database.
+
+**Technologies:**  
+Python, Flask, Chatterbot, Last.fm API
+
+**Features:**
+- Sentiment analysis to determine user mood
+- Personalized song recommendations based on mood and user preferences
+- Integration with Last.fm API for a wide range of song options
+
+**Links:**
+- [GitHub Repository](https://github.com/yourusername/chatbot-song-recommender)
 
 ---
 
